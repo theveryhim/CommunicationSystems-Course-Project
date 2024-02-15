@@ -1,5 +1,5 @@
 # Theveryhim_Works
-These are my projects(course &amp; etc). Hope you find them usefull 
+These are my projects(course &amp; etc). Hope you find them usefull(Branches of SUT projects) 
 
  1.Headball(Jan 2022) 
  I designed this game in CodeBlocks environment using C++ programming and SDL2 graphics. It is more of a simplified version of the famous one. All of necessary files including explanations(persian) are provided as a zip file just make sure about directions on your device. I suggest you to take a quick look at main file.
