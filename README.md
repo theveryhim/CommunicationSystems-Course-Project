@@ -3,7 +3,7 @@
  The aim of this project was to educate radar funtionality
  and the possibility to use them as a **basis for data 
  transmission and receive**. 
- ### Education 
+ ## Education 
  An almost 4 hour workshop was provided to present radaring
  operations and a paper about index modulating radars. 
  ## Implementation
