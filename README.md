@@ -1,4 +1,4 @@
- # FMCW  
+ # Frequency Modulated Continuous Wave  
  
  The aim of this project was to educate radar funtionality
  and the possibility to use them as a **basis for data 
