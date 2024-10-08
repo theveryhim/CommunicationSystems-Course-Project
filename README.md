@@ -1,4 +1,4 @@
- # FMCW Jan 2024 (1st Branch)
+ # FMCW Jan 2024
 
  The aim of this project was to educate radar funtionality
  and the possibility to use them as a **basis for data 
